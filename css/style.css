@@ -35,7 +35,7 @@ body {
     /* border: solid red 5px; */
 }
 
-#famu {
+.class {
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 20px;
  
@@ -65,6 +65,11 @@ h2 {
     /*padding-bottom: 40px; */
     font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+.material-icons,
+h5 {
+    display: inline;
+    /* border: solid red 5px; */
 }
 
 .navbar {
